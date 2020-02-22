@@ -1,0 +1,12 @@
+J:\Projects\mt_mobile\mt_project\Dev_Project\Tools\TexturePacker\TexturePacker\bin\Debug\TexturePacker.dll.config
+J:\Projects\mt_mobile\mt_project\Dev_Project\Tools\TexturePacker\TexturePacker\bin\Debug\TexturePacker.dll
+J:\Projects\mt_mobile\mt_project\Dev_Project\Tools\TexturePacker\TexturePacker\bin\Debug\TexturePacker.pdb
+J:\Projects\mt_mobile\mt_project\Dev_Project\Tools\TexturePacker\TexturePacker\obj\Debug\TexturePacker.dll
+J:\Projects\mt_mobile\mt_project\Dev_Project\Tools\TexturePacker\TexturePacker\obj\Debug\TexturePacker.pdb
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\bin\Debug\TexturePacker.dll.config
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\bin\Debug\TexturePacker.dll
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\bin\Debug\TexturePacker.pdb
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\obj\Debug\TexturePacker.csprojAssemblyReference.cache
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\obj\Debug\TexturePacker.csproj.CoreCompileInputs.cache
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\obj\Debug\TexturePacker.dll
+E:\sunny2\Dev_Project\ToolSource\TexturePacker\TexturePacker\obj\Debug\TexturePacker.pdb
